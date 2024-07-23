@@ -1,8 +1,10 @@
 ## What am I doing right now?
 ---
-- Getting trained on various testing methodologies, including **unit testing**, **end-to-end testing**, **API testing**, and **performance testing** using tools like Maven, Karate, Junit, Jenkins, JMeter, Hercules, Mockito, and mocking techniques.
-- Working on a project to demonstrate skills in **Next.js, React, TypeScript, Tailwind CSS**, etc.
-- Preparing for **AWS Certifications** for Certified Cloud Practitioner and AWS Developer Essentials.
+
+- Currently working on a project to showcase skills in **Next.js, React, TypeScript,** and **Tailwind CSS**.
+- Actively preparing for **AWS Certifications** as a Certified Cloud Practitioner and AWS Developer Essentials.
+- Additionally, undergoing training in various testing methodologies, including **unit testing, end-to-end testing, API testing**, and **performance testing** using tools like **Maven, Karate, Junit, Jenkins, JMeter, Hercules, Mockito**, and mocking techniques.
+
 
 ---
 ## Summary
