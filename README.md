@@ -1,5 +1,6 @@
 ## What am I doing right now?
 
+- Actively looking for opportunities as a **software developer**.
 - Currently working on a project to showcase skills in **Next.js, React, TypeScript,** and **Tailwind CSS**.
 - Actively preparing for **AWS Certifications** as a Certified Cloud Practitioner and Certified Developer - Associate.
 - Additionally, undergoing training in various testing methodologies, including **unit testing, end-to-end testing, API testing**, and **performance testing** using tools like **Maven, Karate, Junit, Jenkins, JMeter, Hercules, Mockito**, and mocking techniques.
