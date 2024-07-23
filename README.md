@@ -1,4 +1,12 @@
+## What am I doing right now?
+---
+- Getting trained on various testing methodologies, including **unit testing**, **end-to-end testing**, **API testing**, and **performance testing** using tools like Maven, Karate, Junit, Jenkins, JMeter, Hercules, Mockito, and mocking techniques.
+- Working on a project to demonstrate skills in **Next.js, React, TypeScript, Tailwind CSS**, etc.
+- Preparing for **AWS Certifications** for Certified Cloud Practitioner and AWS Developer Essentials.
+
+---
 ## Summary
+---
 
 Experienced **Software Developer** with over **3+ years** of industry experience in **full-stack development** and **data solutions**. 
 
